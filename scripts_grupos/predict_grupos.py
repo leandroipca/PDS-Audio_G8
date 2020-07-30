@@ -158,6 +158,7 @@ if __name__ == "__main__":
 
             print(f"{keyword}", "\n")
 
+
     #testar com ficheiros pré gravados de todos os grupos
 
     #keyword1 = kss.predict("../teste_grupos/G4.wav")
